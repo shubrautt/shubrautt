@@ -15,5 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham44-code&show_icons=true&locale=en&layout=compact" alt="shubham44-code" width="400"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham44-code&show_icons=true&locale=en" alt="shubham44-code" width="400" /></p>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shubham44-code)  

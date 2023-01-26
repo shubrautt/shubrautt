@@ -1,6 +1,4 @@
-<div background-color="red">
-<h1 align="center">Hi 👋, I'm Shubham raut</h1>
-<h3 align="center">A Passionate Frontend Developer From India</h3>
+<img src="main.png" />
 
 
 ## 🌐Socials
